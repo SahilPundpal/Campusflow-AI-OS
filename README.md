@@ -2,7 +2,7 @@
 
 > **"Alexa for your college life."** A unified AI-powered campus assistant that understands your routine, summarizes important updates, organizes schedules, and proactively manages everyday academic life.
 
-![CampusFlow AI OS Banner](https://via.placeholder.com/1200x400?text=CampusFlow+AI+OS+Banner) *(Replace this link with a screenshot of your actual dashboard)*
+![CampusFlow AI OS Banner](./screen.png)
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_on_Vercel-success)](#) 
 [![Track](https://img.shields.io/badge/Track-AWS_AI_for_Campus-orange)](#)
