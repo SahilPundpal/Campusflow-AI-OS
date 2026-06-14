@@ -4,10 +4,17 @@
 
 ![CampusFlow AI OS Banner](./screen.png)
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live_on_Vercel-success)](#) 
+🚀 **Live Demo:** https://campusflow-ai-os-wine.vercel.app/
 [![Track](https://img.shields.io/badge/Track-AWS_AI_for_Campus-orange)](#)
 [![Built with Gemini](https://img.shields.io/badge/AI-Google_Gemini_2.5_Flash-blue)](#)
 
+## Deployment
+
+Frontend (Vercel):
+https://campusflow-ai-os-wine.vercel.app/
+
+Backend (Render):
+https://campusflow-ai-os-y8t9.onrender.com
 ---
 
 ## 🧠 The Problem & Our Solution
